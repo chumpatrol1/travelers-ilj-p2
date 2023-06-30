@@ -20,3 +20,5 @@ Step 5: Create a get_films() object using pool.query - write "select <table_name
 Step 6: Inside of the get_rows() function, return response.status (on success, this will be a json containing 200 and results.rows).
 Step 7: Repeats Steps 3-6 for accessing any other queries, changing the queries appropriately
 Step 8: Export get_rows() and get_films()
+
+The code in this repo is concept code and skeleton code - Files attached may be buggy - programmers beware!
