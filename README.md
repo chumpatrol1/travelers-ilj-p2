@@ -22,3 +22,4 @@ Step 7: Repeats Steps 3-6 for accessing any other queries, changing the queries 
 Step 8: Export get_rows() and get_films()
 
 The code in this repo is concept code and skeleton code - Files attached may be buggy - programmers beware!
+Used https://blog.logrocket.com/crud-rest-api-node-js-express-postgresql/
